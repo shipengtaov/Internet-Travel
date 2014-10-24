@@ -1,6 +1,6 @@
 Internet-Travel
 ===============
 
-Here is some travels from me
+Here are some Internet travels from me
 
 * [Open Database](https://github.com/shispt/Internet-Travel/OpenDatabase)
